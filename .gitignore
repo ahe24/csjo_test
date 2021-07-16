@@ -1,3 +1,28 @@
+# Folders
+/build/
+/work/
+**/work/
+META-INF/
+**/.visualizer/
+**/questa_lib/
+**/secureip/
+**/unimacro_ver/
+**/unisims_ver/
+
+# Files
+Thumbs.db
+.svn
+*.tmp
+*.bak
+*.swp
+*.ini
+*.wlf
+*.log
+*.bin
+*.db
+*.config
+transcript
+
 # Prerequisites
 *.d
 
